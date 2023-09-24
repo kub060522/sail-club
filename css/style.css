@@ -11,3 +11,28 @@
   clip: rect(0 0 0 0);
   overflow: hidden;
 }
+
+body {
+  font-family: Roboto, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-style: normal;
+  font-weight: 400;
+  color: #163152;
+  background-color: #FDFDFF;;
+}
+
+.main-nav__link {
+  font-size: 14px;
+  line-height: 18px;
+  text-transform: uppercase;
+  color: #163152;
+}
+
+.page-main__title {
+  font-size: 44px;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 60px;
+}
+
