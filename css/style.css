@@ -23,6 +23,7 @@ body {
 }
 
 .main-nav__link {
+  text-decoration: none;
   font-size: 14px;
   line-height: 18px;
   text-transform: uppercase;
@@ -36,3 +37,61 @@ body {
   line-height: 60px;
 }
 
+.promo-data {
+  font-size: 14px;
+  line-height: 18px;
+  text-transform: uppercase;
+}
+
+.page-title2 {
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 34px;
+  text-decoration-line: underline;
+  text-decoration-color: #00C6BD;
+  text-decoration-style: solid;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 15px;
+}
+
+.page-title3 {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 22px;
+}
+
+.kontacts-info {
+  line-height: 22px;
+}
+
+.kontacts-info-link {
+  line-height: 22px;
+  text-decoration: none;
+  color: #163152;
+}
+
+.footer-title {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 18px;
+  text-transform: uppercase;
+}
+
+.footer-link {
+  text-decoration: none;
+  font-size: 14px;
+  line-height: 16px;
+  color: #163152;
+}
+
+.footer-copyright {
+  font-size: 10px;
+  line-height: 12px;
+}
+
+.policy-link {
+  text-decoration: none;
+  font-size: 10px;
+  line-height: 12px;
+  color: #163152;
+}
