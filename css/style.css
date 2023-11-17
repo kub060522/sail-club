@@ -52,6 +52,7 @@ body {
   text-decoration-style: solid;
   text-decoration-thickness: 2px;
   text-underline-offset: 15px;
+  text-underline-position: under;
 }
 
 .page-title3 {
@@ -62,6 +63,7 @@ body {
 
 .kontacts-info {
   line-height: 22px;
+  font-style: normal;
 }
 
 .kontacts-info-link {
