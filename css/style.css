@@ -61,6 +61,66 @@ body {
   line-height: 22px;
 }
 
+.news-title {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 26px;
+}
+
+figcaption {
+  color: #8693A4;
+}
+
+.news-paragraph {
+  font-size: 18px;
+  line-height: 26px;
+}
+
+.news-leading-paragraph {
+  padding-left: 20px;
+  border-left: 2px solid #00C6BD;
+  font-size: 26px;
+  font-weight: 700;
+  line-height: 36px;
+}
+
+.teams-list {
+  list-style-image: url(../img/Ellipse.svg);
+}
+
+.news-span {
+  text-decoration: line-through;
+}
+
+.teams-item {
+  font-size: 18px;
+  line-height: 26px;
+}
+
+.meta-name {
+  position: relative;
+  padding-left: 95px;
+
+  font-weight: 700;
+  line-height: 19px;
+}
+
+.meta-data {
+  position: relative;
+  padding-left: 55px;
+
+  line-height: 19px;
+  color: #8693A4;
+}
+
+.meta-autor::before {
+  content: "";
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  background-image: url(../img/author.jpg);
+}
+
 .kontacts-info {
   line-height: 22px;
   font-style: normal;
